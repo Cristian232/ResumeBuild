@@ -6,7 +6,8 @@
 	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" /> 
 	<link rel="stylesheet" href="inc/reset.css" type="text/css">
-	<link rel="stylesheet" href="inc/style.css" type="text/css">
+	<!--   <link rel="stylesheet" href="inc/style.css" type="text/css">     -->
+	<link rel="stylesheet" href="inc/styleflex.css" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 	<link rel="icon" href="img/1s.png">
 </head>
